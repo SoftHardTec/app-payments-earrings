@@ -42,7 +42,7 @@ export default function Page() {
 
   return (
     <div className="flex h-full w-full items-center justify-center ">
-      <div className=" flex flex-col justify-center gap-10 py-10 w-[80vw] rounded-xl sm:w-95 shadow-[3px_3px_15px_var(--tw-shadow-color)] dark:shadow-gray-500/50 shadow-gray-900/50  ">
+      <div className=" flex flex-col justify-center gap-10 py-10 w-full rounded-xl sm:w-95 shadow-[3px_3px_15px_var(--tw-shadow-color)] dark:shadow-gray-500/50 shadow-gray-900/50  ">
         <CardHeader>
           <CardTitle className="text-center text-2xl ">
             Actualizar Pago

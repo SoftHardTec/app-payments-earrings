@@ -40,7 +40,7 @@ export default function RootLayout({
             <Navbar />
           </header>
 
-          <main className="flex flex-col items-center justify-center h-[calc(100vh-10rem)]  ">
+          <main className="flex flex-col items-center justify-center h-[calc(100vh-10rem)] mx-5  ">
             {children}
           </main>
           <Toaster />

@@ -107,7 +107,7 @@ export default function PaymentSchedule({
 
   return (
     <>
-      <CardContent className="px-13">
+      <CardContent className="px-8">
         <form
           id="bug-report-form"
           onSubmit={(a) => {
